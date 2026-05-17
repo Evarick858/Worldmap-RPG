@@ -1,2 +1,0 @@
-# Worldmap-RPG
-World map
